@@ -98,7 +98,7 @@ Uma lista revisada e comentada de informações incríveis sobre praticamente tu
 * [Loci Method](http://www.youtube.com/watch?v=YdfUaydquXs)
 * [Remember Names and Faces](https://www.youtube.com/watch?v=8weFiPGFObk)
 
-# Web Hosting Gratuito
+## Web Hosting Gratuito
 * [Heroku](https://www.heroku.com)
 * [OpenShift](https://www.openshift.com/)
 * [Surge](https://surge.sh/)
