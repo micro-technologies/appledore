@@ -88,7 +88,7 @@ Uma lista revisada e comentada de informações incríveis sobre praticamente tu
 ## Anotações
 * [Todoist](http://www.todoist.com)
 * [Wunderlist](http://wunderlist.com/)
-* [Google Keep][https://keep.google.com/]
+* [Google Keep](https://keep.google.com/)
 
 ## Mapas Mentais
 * [Coggle](https://coggle.it)
