@@ -103,3 +103,35 @@ Uma lista revisada e comentada de informações incríveis sobre praticamente tu
 * [OpenShift](https://www.openshift.com/)
 * [Surge](https://surge.sh/)
 * [GitHub Pages](https://pages.github.com/)
+
+## Enxertia
+* [Grafting and budding fruit trees](http://www.extension.umn.edu/garden/yard-garden/fruit/grafting-and-budding-fruit-trees/)
+
+## PSX Dev
+* [How did game developers pack entire games into so little memory twenty five years ago?](https://www.quora.com/How-did-game-developers-pack-entire-games-into-so-little-memory-twenty-five-years-ago/answer/Dave-Baggett?srid=z9ZA&share=1)
+* [Making Crash Bandicoot](http://all-things-andy-gavin.com/2011/02/02/making-crash-bandicoot-part-1/)
+* [GTE](http://psx.rules.org/gte.txt)
+* [Padua Docs](http://psx.rules.org/psxrul2.shtml)
+* [PSX Specifications](http://problemkaputt.de/psx-spx.htm)
+* [Multi Emulator](https://mednafen.github.io/) 
+
+## PS2 Homebrew
+* [PopStarter](http://assemblergames.com/l/threads/ps2-pops-stuff.45347/)
+* [LaunchElf](http://psx-scene.com/forums/f113/wlaunchelf-release-thread-156637/)
+
+## Livros Online
+* [The C Book](http://publications.gbdirect.co.uk/c_book/)
+* [Top 28 C Programming Books in 2017](http://listsplosion.com/post/128385490513/learn-c-programming)
+
+## SQLi
+* [Bobby Tables: A guide to preventing SQL injection](http://bobby-tables.com/)
+* [Sql Injection Myths and Fallacies](http://www.slideshare.net/billkarwin/sql-injection-myths-and-fallacies)
+
+## Object Oriented Programming
+* [Object Oriented Programming is an expensive disaster which must end](http://www.smashcompany.com/technology/object-oriented-programming-is-an-expensive-disaster-which-must-end)
+* [Why OO Sucks](http://harmful.cat-v.org/software/OO_programming/why_oo_sucks)
+
+## Filosofia
+* [Metaphysics](https://plato.stanford.edu/entries/metaphysics/)
+
+
