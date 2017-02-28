@@ -133,5 +133,3 @@ Uma lista revisada e comentada de informações incríveis sobre praticamente tu
 
 ## Filosofia
 * [Metaphysics](https://plato.stanford.edu/entries/metaphysics/)
-
-
