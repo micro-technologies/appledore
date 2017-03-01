@@ -135,3 +135,5 @@ Uma lista revisada e comentada de informações incríveis sobre praticamente tu
 * [Metaphysics](https://plato.stanford.edu/entries/metaphysics/)
 * [Crash Course Philosophy](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR)
 * [Lucas Scardone](https://www.youtube.com/channel/UCx-BZnj8cbfinBI0LngwAnw)
+## Eixir
+* [Fabio Akita](https://www.youtube.com/watch?v=8Ng6TfAj7Sk)
