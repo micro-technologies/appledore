@@ -62,6 +62,7 @@ Uma lista revisada e comentada de informações incríveis sobre praticamente tu
 
 ## Desenvolvimento Pessoal
 
+* [What the bleep do we know?](https://youtu.be/dr51w9892hI)
 * [Arata Academy - BR](http://www.youtube.com/channel/UCEdgNBcBybRtwv836C8El4g)
 * [Natugood - BR](http://www.youtube.com/channel/UComPEGX1rba0AL3b20Crw_g)
 * [Alphalife Coach - BR](http://www.youtube.com/channel/UCNdR1PwjowEws_Nmd50FUkw)
