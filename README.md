@@ -152,3 +152,5 @@ Uma lista revisada e comentada de informações incríveis sobre praticamente tu
 * [SCX](https://www.scx.hu/)
 * [Flickr](https://www.flickr.com/creativecommons/)
 * [EveryStockPhoto](http://www.everystockphoto.com/)
+* [iStock - Pago](https://www.istockphoto.com/br)
+* [123RF - Pago](https://br.123rf.com/)
