@@ -87,6 +87,7 @@ Uma lista revisada e comentada de informações incríveis sobre praticamente tu
 # Como manter-se organizado e lembrar das coisas
 
 ## Apresentações
+* [GoAnimate](https://www.vyond.com/)
 * [Prezzi(https://prezi.com/)
 * [SlideShare](https://pt.slideshare.net/)
 * [MonkeyBusiness](https://www.monkeybusiness.com.br/)
