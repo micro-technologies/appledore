@@ -86,6 +86,11 @@ Uma lista revisada e comentada de informações incríveis sobre praticamente tu
 
 # Como manter-se organizado e lembrar das coisas
 
+## Apresentações
+* [Prezzi(https://prezi.com/)
+* [SlideShare](https://pt.slideshare.net/)
+* [MonkeyBusiness](https://www.monkeybusiness.com.br/)
+
 ## Anotações
 * [Todoist](http://www.todoist.com)
 * [Wunderlist](http://wunderlist.com/)
@@ -93,6 +98,7 @@ Uma lista revisada e comentada de informações incríveis sobre praticamente tu
 
 ## Mapas Mentais
 * [Coggle](https://coggle.it)
+* [MinMapFree.com](http://mindmapfree.com/)
 * [Mind42](http://www.mind42.com)
 
 ## Técnicas
