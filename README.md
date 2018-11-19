@@ -146,3 +146,9 @@ Uma lista revisada e comentada de informações incríveis sobre praticamente tu
 
 ## Eixir
 * [Fabio Akita](https://www.youtube.com/watch?v=8Ng6TfAj7Sk)
+
+## Imagens Creative Commons
+* [Morguefile](https://morguefile.com/)
+* [SCX](https://www.scx.hu/)
+* [Flickr](https://www.flickr.com/creativecommons/)
+* [EveryStockPhoto](http://www.everystockphoto.com/)
