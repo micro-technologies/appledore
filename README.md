@@ -88,7 +88,7 @@ Uma lista revisada e comentada de informações incríveis sobre praticamente tu
 
 ## Apresentações
 * [GoAnimate](https://www.vyond.com/)
-* [Prezzi(https://prezi.com/)
+* [Prezzi](https://prezi.com/)
 * [SlideShare](https://pt.slideshare.net/)
 * [MonkeyBusiness](https://www.monkeybusiness.com.br/)
 
