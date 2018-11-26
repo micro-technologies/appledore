@@ -154,3 +154,6 @@ Uma lista revisada e comentada de informações incríveis sobre praticamente tu
 * [EveryStockPhoto](http://www.everystockphoto.com/)
 * [iStock - Pago](https://www.istockphoto.com/br)
 * [123RF - Pago](https://br.123rf.com/)
+
+## Virus Scan
+https://www.maketecheasier.com/scan-apk-files-for-virus/
