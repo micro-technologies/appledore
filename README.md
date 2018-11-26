@@ -147,13 +147,15 @@ Uma lista revisada e comentada de informações incríveis sobre praticamente tu
 ## Eixir
 * [Fabio Akita](https://www.youtube.com/watch?v=8Ng6TfAj7Sk)
 
-## Imagens Creative Commons
+## Vetores PSD's Ícones e Imagens Livres 
 * [Morguefile](https://morguefile.com/)
 * [SCX](https://www.scx.hu/)
 * [Flickr](https://www.flickr.com/creativecommons/)
 * [EveryStockPhoto](http://www.everystockphoto.com/)
 * [iStock - Pago](https://www.istockphoto.com/br)
 * [123RF - Pago](https://br.123rf.com/)
+* [FreePik](https://www.freepik.com/)
 
 ## Virus Scan
-https://www.maketecheasier.com/scan-apk-files-for-virus/
+[APK](https://www.maketecheasier.com/scan-apk-files-for-virus/)
+[Binários e outros](https://www.virustotal.com/pt/)
