@@ -7,6 +7,7 @@ Uma lista revisada e comentada de informações incríveis sobre praticamente tu
 
 ## Programação & Ciência da Computação
 
+* [EggHead](https://egghead.io/)
 * [Code Academy](http://www.codecademy.com)
 * [FreeCodeCamp - BR](http://www.freecodecamp.com)
 * [Curso em Vídeo - BR](http://www.cursoemvideo.com)
@@ -159,3 +160,9 @@ Uma lista revisada e comentada de informações incríveis sobre praticamente tu
 ## Virus Scan
 [APK](https://www.maketecheasier.com/scan-apk-files-for-virus/)
 [Binários e outros](https://www.virustotal.com/pt/)
+
+## Notícias de Tecnologia
+[State of JS](https://2018.stateofjs.com/awards/)
+
+## Qualidade de Código
+[StyleLint](https://stylelint.io/)
