@@ -157,12 +157,15 @@ Uma lista revisada e comentada de informações incríveis sobre praticamente tu
 * [123RF - Pago](https://br.123rf.com/)
 * [FreePik](https://www.freepik.com/)
 
+## Templates HTML5 Responsivos Livres
+* [html5up](https://html5up.net/?fbclid=IwAR2ldSM36rC_s4mqMo9SrJOx8lgn_ukTTSTDfxa0ybaJ1pqDQRG00kZNIbA)
+
 ## Virus Scan
-[APK](https://www.maketecheasier.com/scan-apk-files-for-virus/)
-[Binários e outros](https://www.virustotal.com/pt/)
+* [APK](https://www.maketecheasier.com/scan-apk-files-for-virus/)
+* [Binários e outros](https://www.virustotal.com/pt/)
 
 ## Notícias de Tecnologia
-[State of JS](https://2018.stateofjs.com/awards/)
+* [State of JS](https://2018.stateofjs.com/awards/)
 
-## Qualidade de Código
-[StyleLint](https://stylelint.io/)
+## Qualidade de Design
+* [StyleLint](https://stylelint.io/)
